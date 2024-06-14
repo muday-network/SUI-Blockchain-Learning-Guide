@@ -1,5 +1,8 @@
 # SUI Blockchain Learning Guide
 
+# This is under development, and contributions are highly welcomed. 
+
+
 Welcome to the SUI Blockchain Learning Guide! This comprehensive guide is designed to help you understand and master the SUI blockchain ecosystem, from the basics to advanced topics. Whether you are a beginner or an experienced developer, this guide has something for you.
 
 ## Introduction
