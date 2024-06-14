@@ -15,8 +15,8 @@ Blockchain technology has revolutionized the way we think about data, security, 
 - [Use Cases of Blockchain](./01_Introduction/04_Use_Cases_of_Blockchain.md)
 - [Blockchain Ecosystem](./01_Introduction/05_Blockchain_Ecosystem.md)
 - [Current Trends](./01_Introduction/06_Current_Trends.md)
-- [Future Perspectives](./01_Introduction/07_Future_Perspectives.md)
-- [Glossary of Terms](./01_Introduction/08_Glossary_of_Terms.md)
+- [Blockchain vs Traditional Systems](./01_Introduction/07_Blockchain_vs_Traditional_systems.md)
+- [Future of Blockchain](./01_Introduction/08_Future_of_Blockchain.md)
 - [References](./01_Introduction/09_References.md)
 - [Additional Resources](./01_Introduction/10_Additional_Resources.md)
 
